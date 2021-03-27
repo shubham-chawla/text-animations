@@ -6,3 +6,6 @@ Apple Style
 
 Word Swipe
 <img src="word-swipe/word-swipe.gif" alt="word-swipe-demo">
+
+Shining text
+<img src="shining-text/shining-text.gif" alt="shining-text-demo">
