@@ -1,2 +1,2 @@
 Blinking
-![](bliking/blinking.gif)
+<img src="blinking.gif" alt="blinking-demo">
