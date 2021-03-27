@@ -11,7 +11,7 @@ h1 {
   font-family: "Sacramento", cursive;
   text-align: center;
   animation: blink 12s infinite;
-  -webkit-animation: blink 1s infinite;
+  -webkit-animation: blink 12s infinite;
 }
 
 body {
