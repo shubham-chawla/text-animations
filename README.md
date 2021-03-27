@@ -1,5 +1,5 @@
 Blinking
-<img src="blinking.gif" alt="blinking-demo">
+<img src="blinking/blinking.gif" alt="blinking-demo">
 
 Apple Style
-<img src="apple.gif" alt="apple-demo">
+<img src="apple/apple.gif" alt="apple-demo">
